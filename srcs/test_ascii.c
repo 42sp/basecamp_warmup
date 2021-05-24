@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   test_ascii.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: iwillens <iwillens@student.42sp.org.br>    +#+  +:+       +#+        */
+/*   By: iwillens <iwillens@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/11/01 01:21:43 by iwillens          #+#    #+#             */
-/*   Updated: 2020/11/01 02:31:18 by iwillens         ###   ########.fr       */
+/*   Updated: 2021/05/24 15:00:26 by iwillens         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 void	test_ascii(void)
 {
-	unsigned char c;
+	unsigned char	c;
 
 	c = 0x2F;
 	while (++c <= 0x7F)

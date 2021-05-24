@@ -3,16 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   error_norme.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: iwillens <iwillens@student.42sp.org.br>    +#+  +:+       +#+        */
+/*   By: iwillens <iwillens@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/11/01 02:50:16 by iwillens          #+#    #+#             */
-/*   Updated: 2020/11/01 02:56:10 by iwillens         ###   ########.fr       */
+/*   Updated: 2021/05/24 15:01:02 by iwillens         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int main(void)
+int	main(void)
 {
-	int i;
+	int	i;
 	i = 0;
 	while (i < 10)
 	{
